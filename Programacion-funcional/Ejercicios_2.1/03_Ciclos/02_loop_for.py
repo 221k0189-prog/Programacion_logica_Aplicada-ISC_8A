@@ -1,5 +1,5 @@
 ###
-#1 - Bucle (while)
+#1 - Bucle (for)
 # Permite ejecutar un bloque de codigo repentinamente mientrras se cunpla una condicion
 
 from os import system
